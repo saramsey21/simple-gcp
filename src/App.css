@@ -4,6 +4,25 @@
   min-height: 100vh;
 }
 
+.Header {
+  text-align: center;
+  align-content: center;
+  color: white;
+  font-size: 32px;
+  height: 64px;
+}
+
+.Description {
+  padding: 16px;
+}
+
+.content {
+  text-align: center;
+  align-content: center;
+  color: white;
+  font-size: 24px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
