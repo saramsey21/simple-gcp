@@ -5,8 +5,11 @@ Type a simple greeting like 'hello'
 
 ## Questions to ask my chatbox:
 what is in state tuition?
+
 is there on campus housing?
+
 Do they have a football team?
+
 Do they have a computer science program?
 
 ## To end a conversation with the chatbox:
