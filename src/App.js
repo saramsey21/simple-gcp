@@ -15,6 +15,7 @@ function App() {
         <div className="content">To begin using this chatbot, start with a simple greeting (like hello)</div>
         <div className="content">After answering a few questions, you can ask questions about The University of Cincinnati</div>
         <div className="content">Try asking 'do they have a football team?' or 'what is in state tuition?' </div>
+        <div className="content">To end a conversation, type no when asked if there are any questions' </div>
       </div>    
     </div>
   );
